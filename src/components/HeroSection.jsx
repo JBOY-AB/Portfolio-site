@@ -19,7 +19,7 @@ export const HeroSection = () => {
                 </h1>
                 <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto opacity-0 animate-fade-in-delayed-3">
                     I create stellar web experiences with modern technologies.
-                    Specializing in full-stack development to bring your ideas to life.
+                    Specializing in frontend development to bring your ideas to life.
                     I build responsive, user-friendly websites and applications that stand out.
                 </p>
                 <div className="pt-4 opacity-0 animate-fade-in-delayed-4">

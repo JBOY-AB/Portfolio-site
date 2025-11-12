@@ -1,4 +1,4 @@
-import { Instagram, Linkedin, Mail, MapPin, Phone, Twitch, Twitter, Send } from "lucide-react";
+import { Instagram, Linkedin, Mail, MapPin, Phone, Facebook, Twitter, Send } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { useToast } from "../hooks/use-toast";
 
@@ -47,7 +47,7 @@ export const ContactSection = () => {
                     href="mailto:hello@gmail.com"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    hello@gmail.com
+                    jeremiahayoola350@gmail.com
                   </a>
                 </div>
               </div>
@@ -63,7 +63,7 @@ export const ContactSection = () => {
                     href="tel:12344566"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    12344566
+                    09029246324
                   </a>
                 </div>
               </div>
@@ -89,11 +89,11 @@ export const ContactSection = () => {
                   <a href="#" target="_blank" className="hover:text-primary transition-colors">
                     <Twitter />
                   </a>
-                  <a href="#" target="_blank" className="hover:text-primary transition-colors">
+                  <a href="https://www.instagram.com/ayoola_jeremiah/" target="_blank" className="hover:text-primary transition-colors">
                     <Instagram />
                   </a>
-                  <a href="#" target="_blank" className="hover:text-primary transition-colors">
-                    <Twitch />
+                  <a href="https://www.facebook.com/jeremiah.abiona.98" target="_blank" className="hover:text-primary transition-colors">
+                    <Facebook />
                   </a>
                 </div>
               </div>

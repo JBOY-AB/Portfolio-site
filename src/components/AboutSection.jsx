@@ -13,8 +13,8 @@ export const AboutSection = () => {
                     <h3 className="text-2xl font-semibold ">Passionate Web developer & Tech Creator</h3>
 
                     <p className=" text-muted-foreground">
-                       With over 2years of experience in web development,
-                        I specialize in crafting dynamic and responsive web applications. My expertise spans both front-end and back-end technologies,
+                       With over 3years of experience in web development,
+                        I specialize in crafting dynamic and responsive web applications. My expertise is in the front-end technologies,
                         enabling me to deliver comprehensive solutions that meet client needs.
                     </p>
 
